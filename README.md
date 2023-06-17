@@ -3,6 +3,7 @@
 
 # Install Git First (apt-instll git)
 $ git clone https://github.com/darkside96000/Shizi_Music
+
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
